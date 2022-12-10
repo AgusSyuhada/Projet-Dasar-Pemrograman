@@ -1,0 +1,15 @@
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\bin\Debug\net6.0\SOAL UTS 2.exe
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\bin\Debug\net6.0\SOAL UTS 2.deps.json
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\bin\Debug\net6.0\SOAL UTS 2.runtimeconfig.json
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\bin\Debug\net6.0\SOAL UTS 2.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\bin\Debug\net6.0\SOAL UTS 2.pdb
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\obj\Debug\net6.0\SOAL UTS 2.csproj.AssemblyReference.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\obj\Debug\net6.0\SOAL UTS 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\obj\Debug\net6.0\SOAL UTS 2.AssemblyInfoInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\obj\Debug\net6.0\SOAL UTS 2.AssemblyInfo.cs
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\obj\Debug\net6.0\SOAL UTS 2.csproj.CoreCompileInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\obj\Debug\net6.0\SOAL UTS 2.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\obj\Debug\net6.0\refint\SOAL UTS 2.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\obj\Debug\net6.0\SOAL UTS 2.pdb
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\obj\Debug\net6.0\SOAL UTS 2.genruntimeconfig.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\UTS - Agus Syuhada 2207125092\SOAL UTS 2\obj\Debug\net6.0\ref\SOAL UTS 2.dll

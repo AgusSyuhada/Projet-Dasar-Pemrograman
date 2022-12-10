@@ -1,0 +1,15 @@
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\bin\Debug\net6.0\Project Game Adventure.exe
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\bin\Debug\net6.0\Project Game Adventure.deps.json
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\bin\Debug\net6.0\Project Game Adventure.runtimeconfig.json
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\bin\Debug\net6.0\Project Game Adventure.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\bin\Debug\net6.0\Project Game Adventure.pdb
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\obj\Debug\net6.0\Project Game Adventure.csproj.AssemblyReference.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\obj\Debug\net6.0\Project Game Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\obj\Debug\net6.0\Project Game Adventure.AssemblyInfoInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\obj\Debug\net6.0\Project Game Adventure.AssemblyInfo.cs
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\obj\Debug\net6.0\Project Game Adventure.csproj.CoreCompileInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\obj\Debug\net6.0\Project Game Adventure.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\obj\Debug\net6.0\refint\Project Game Adventure.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\obj\Debug\net6.0\Project Game Adventure.pdb
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\obj\Debug\net6.0\Project Game Adventure.genruntimeconfig.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adventure\obj\Debug\net6.0\ref\Project Game Adventure.dll

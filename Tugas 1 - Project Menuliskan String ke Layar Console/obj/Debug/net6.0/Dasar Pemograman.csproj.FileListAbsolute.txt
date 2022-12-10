@@ -1,0 +1,15 @@
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\bin\Debug\net6.0\Dasar Pemograman.exe
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\bin\Debug\net6.0\Dasar Pemograman.deps.json
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\bin\Debug\net6.0\Dasar Pemograman.runtimeconfig.json
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\bin\Debug\net6.0\Dasar Pemograman.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\bin\Debug\net6.0\Dasar Pemograman.pdb
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\obj\Debug\net6.0\Dasar Pemograman.csproj.AssemblyReference.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\obj\Debug\net6.0\Dasar Pemograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\obj\Debug\net6.0\Dasar Pemograman.AssemblyInfoInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\obj\Debug\net6.0\Dasar Pemograman.AssemblyInfo.cs
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\obj\Debug\net6.0\Dasar Pemograman.csproj.CoreCompileInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\obj\Debug\net6.0\Dasar Pemograman.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\obj\Debug\net6.0\refint\Dasar Pemograman.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\obj\Debug\net6.0\Dasar Pemograman.pdb
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\obj\Debug\net6.0\Dasar Pemograman.genruntimeconfig.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman\obj\Debug\net6.0\ref\Dasar Pemograman.dll

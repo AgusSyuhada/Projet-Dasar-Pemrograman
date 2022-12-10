@@ -1,0 +1,54 @@
+<!--
+    Nama    : Agus Syuhada
+    NIM     : 2207125092
+    Kelas   : Teknik Informatika - A
+    UNIVERSITAS RIAU 2022
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>To Do App Vue JS</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+</head>
+
+<body>
+    <div id="app">
+        <h1>To Do App</h1>
+
+        <input type="text" v-model="todo">
+        <button v-on:click="storeTodo">Tambah List</button>
+
+        <ul>
+            <li v-for="(todo, index) in todos">
+                {{ todo }}
+                <button v-on:click="removeTodo(index)">Hapus</button>
+            </li>
+        </ul>
+    </div>
+
+    <script>
+        new Vue({
+            el: '#app',
+
+            data: {
+                todo: '',
+                todos: []
+            },
+
+            methods: {
+                storeTodo() {
+                    this.todos.push(this.todo)
+                    this.todo = ''
+                },
+
+                removeTodo(index) {
+                    this.todos.splice(index, 1)
+                }
+            }
+        })
+    </script>
+</body>
+
+</html>

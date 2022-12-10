@@ -1,0 +1,30 @@
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.csproj.AssemblyReference.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.AssemblyInfoInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.AssemblyInfo.cs
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.csproj.CoreCompileInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\bin\Debug\net6.0\Dasar Pemograman 2.exe
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\bin\Debug\net6.0\Dasar Pemograman 2.deps.json
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\bin\Debug\net6.0\Dasar Pemograman 2.runtimeconfig.json
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\bin\Debug\net6.0\Dasar Pemograman 2.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\bin\Debug\net6.0\Dasar Pemograman 2.pdb
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\obj\Debug\net6.0\refint\Dasar Pemograman 2.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.pdb
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.genruntimeconfig.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Dasar Pemograman 2\obj\Debug\net6.0\ref\Dasar Pemograman 2.dll
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\bin\Debug\net6.0\Dasar Pemograman 2.exe
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\bin\Debug\net6.0\Dasar Pemograman 2.deps.json
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\bin\Debug\net6.0\Dasar Pemograman 2.runtimeconfig.json
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\bin\Debug\net6.0\Dasar Pemograman 2.dll
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\bin\Debug\net6.0\Dasar Pemograman 2.pdb
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.csproj.AssemblyReference.cache
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.AssemblyInfoInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.AssemblyInfo.cs
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.csproj.CoreCompileInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.dll
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\obj\Debug\net6.0\refint\Dasar Pemograman 2.dll
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.pdb
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\obj\Debug\net6.0\Dasar Pemograman 2.genruntimeconfig.cache
+C:\Users\AGUS SYUHADA\Documents\Dasar Pemrograman\Teknik Informatika - A Semester 1\Dasar Pemograman 2\obj\Debug\net6.0\ref\Dasar Pemograman 2.dll

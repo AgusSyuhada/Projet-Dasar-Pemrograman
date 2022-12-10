@@ -1,0 +1,15 @@
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\bin\Debug\net6.0\Project Game Tebak Kata.exe
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\bin\Debug\net6.0\Project Game Tebak Kata.deps.json
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\bin\Debug\net6.0\Project Game Tebak Kata.runtimeconfig.json
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\bin\Debug\net6.0\Project Game Tebak Kata.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\bin\Debug\net6.0\Project Game Tebak Kata.pdb
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\obj\Debug\net6.0\Project Game Tebak Kata.csproj.AssemblyReference.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\obj\Debug\net6.0\Project Game Tebak Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\obj\Debug\net6.0\Project Game Tebak Kata.AssemblyInfoInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\obj\Debug\net6.0\Project Game Tebak Kata.AssemblyInfo.cs
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\obj\Debug\net6.0\Project Game Tebak Kata.csproj.CoreCompileInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\obj\Debug\net6.0\Project Game Tebak Kata.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\obj\Debug\net6.0\refint\Project Game Tebak Kata.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\obj\Debug\net6.0\Project Game Tebak Kata.pdb
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\obj\Debug\net6.0\Project Game Tebak Kata.genruntimeconfig.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Tebak Kata\obj\Debug\net6.0\ref\Project Game Tebak Kata.dll

@@ -1,0 +1,10 @@
+.app {
+  padding: 30px;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 16px;
+  justify-content: space-between;
+}

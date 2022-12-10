@@ -1,0 +1,15 @@
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\bin\Debug\net6.0\Project Game Adu Dadu.exe
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\bin\Debug\net6.0\Project Game Adu Dadu.deps.json
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\bin\Debug\net6.0\Project Game Adu Dadu.runtimeconfig.json
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\bin\Debug\net6.0\Project Game Adu Dadu.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\bin\Debug\net6.0\Project Game Adu Dadu.pdb
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\obj\Debug\net6.0\Project Game Adu Dadu.csproj.AssemblyReference.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\obj\Debug\net6.0\Project Game Adu Dadu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\obj\Debug\net6.0\Project Game Adu Dadu.AssemblyInfoInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\obj\Debug\net6.0\Project Game Adu Dadu.AssemblyInfo.cs
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\obj\Debug\net6.0\Project Game Adu Dadu.csproj.CoreCompileInputs.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\obj\Debug\net6.0\Project Game Adu Dadu.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\obj\Debug\net6.0\refint\Project Game Adu Dadu.dll
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\obj\Debug\net6.0\Project Game Adu Dadu.pdb
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\obj\Debug\net6.0\Project Game Adu Dadu.genruntimeconfig.cache
+C:\Users\AGUS SYUHADA\Documents\Teknik Informatika - A\Project Game Adu Dadu\obj\Debug\net6.0\ref\Project Game Adu Dadu.dll
